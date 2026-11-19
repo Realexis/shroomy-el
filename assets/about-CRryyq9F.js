@@ -1,4 +1,4 @@
-import{A as e,a as t,c as n,f as r,i,l as a,n as o,p as s,v as c,y as l}from"./count-D2A7DU5g.js";var u=e.about;i(t()),l([...document.querySelectorAll(`[data-emergency]`)]),c(),o(`/about`),fetch(new URL(`data/meta.json`,document.baseURI),{cache:`no-cache`}).then(e=>e.json()).then(e=>{document.getElementById(`run`).textContent=a(e.weather_run,{weekday:`long`,day:`numeric`,month:`long`,year:`numeric`}),document.getElementById(`credits`).innerHTML=e.credits.map(e=>`
+import{A as e,a as t,c as n,f as r,i,l as a,n as o,p as s,v as c,y as l}from"./count-RxgXMnB2.js";var u=e.about;i(t()),l([...document.querySelectorAll(`[data-emergency]`)]),c(),o(`/about`),fetch(new URL(`data/meta.json`,document.baseURI),{cache:`no-cache`}).then(e=>e.json()).then(e=>{document.getElementById(`run`).textContent=a(e.weather_run,{weekday:`long`,day:`numeric`,month:`long`,year:`numeric`}),document.getElementById(`credits`).innerHTML=e.credits.map(e=>`
       <div class="card">
         <p><b>${n(e.name)}</b></p>
         <p>${n(u.credit[e.credit]??e.credit)}</p>
