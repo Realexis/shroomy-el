@@ -1,6 +1,6 @@
-# Shroomy in Greek (test copy)
+# Shroomy in English and Greek (test copy)
 
-A test copy of Shroomy in Greek: today's growing conditions for wild mushrooms in the forests of Cyprus.
+A test copy of Shroomy with a language button (English is the default, Greek under `el/`): today's growing conditions for wild mushrooms in the forests of Cyprus.
 
 - **Test site:** https://realexis.github.io/shroomy-el/
 - **Conditions only.** Never eat a wild mushroom based on this map, an app or an AI. Poisoning: call 112 or the Cyprus Poison Centre 1401.
